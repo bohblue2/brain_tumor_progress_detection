@@ -3,5 +3,9 @@ brain-tumor-progression.zip
 
 BraTS2021_Training_Data
 BraTS2021_Training_Data.tar
+
+BraTS2021_00621
+BraTS2021_00495
+
 *.tar
 *.zip
