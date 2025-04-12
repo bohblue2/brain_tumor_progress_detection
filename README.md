@@ -2,8 +2,8 @@
 ```
 micromamba activate brain_tumor
 pip install uv
-micromamba install -c conda-forge dicom2nifti pydicom jupyter jupyterlab
-micromamba install pytorch torchvision torchaudio -c pytorch -c conda-forge -c nodefaults
+micromamba install -c conda-forge dicom2nifti pydicom jupyter jupyterlab nibabel
+uv pip install pytorch torchvision torchaudio
 ```
 
 # How to download dataset
